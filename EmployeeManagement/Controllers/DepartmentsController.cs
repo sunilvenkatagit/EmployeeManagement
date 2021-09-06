@@ -7,6 +7,7 @@ namespace EmployeeManagement.Controllers
 {
     public class DepartmentsController
     {
+        // not using this currently
         public string List()
         {
             return "List() of DepartmentsController";
